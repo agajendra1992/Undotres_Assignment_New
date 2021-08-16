@@ -1,0 +1,1466 @@
+2021-08-15 07:04:56 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:04:56 IST 2021
+2021-08-15 07:04:57 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:04:57 INFO  SuiteListener:35 - Test Case Skipped::rechargeDetails
+2021-08-15 07:04:57 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:04:57 IST 2021
+2021-08-15 07:05:31 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:05:31 IST 2021
+2021-08-15 07:05:32 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:05:32 INFO  SuiteListener:35 - Test Case Skipped::rechargeDetails
+2021-08-15 07:05:32 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:05:32 IST 2021
+2021-08-15 07:23:03 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:23:08 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:23:08 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:23:08 IST 2021
+2021-08-15 07:23:09 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:23:09 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:23:21 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:23:42 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:23:43 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:23:43 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:24:03 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:24:04 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:24:04 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:24:04 IST 2021
+2021-08-15 07:25:19 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:25:23 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:25:23 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:25:23 IST 2021
+2021-08-15 07:25:24 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:25:24 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:25:24 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:25:50 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:25:50 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:25:50 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:26:11 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:26:11 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:26:11 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:26:11 IST 2021
+2021-08-15 07:33:09 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:33:13 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:33:13 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:33:13 IST 2021
+2021-08-15 07:33:14 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:33:14 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:33:14 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:33:39 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:33:39 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:33:39 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:34:00 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:34:00 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:34:00 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:34:00 IST 2021
+2021-08-15 07:39:10 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:39:14 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:39:14 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:39:14 IST 2021
+2021-08-15 07:39:14 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:39:14 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:39:15 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:39:40 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:39:40 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:39:40 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:40:01 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:40:01 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:40:01 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:40:01 IST 2021
+2021-08-15 07:42:58 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:43:02 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:43:02 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:43:02 IST 2021
+2021-08-15 07:43:03 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:43:03 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:43:03 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:43:27 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:43:27 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:43:27 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:43:47 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:43:48 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:43:48 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:43:48 IST 2021
+2021-08-15 07:46:16 INFO  TestBase:46 - Launch the  chrome browser 
+2021-08-15 07:46:20 INFO  TestBase:51 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:46:20 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:46:20 IST 2021
+2021-08-15 07:46:21 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:46:21 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:46:21 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:46:43 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:46:43 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:46:43 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:47:03 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:47:04 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:47:04 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:47:04 IST 2021
+2021-08-15 07:48:55 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:48:58 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:48:59 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:48:58 IST 2021
+2021-08-15 07:48:59 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:48:59 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:48:59 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:49:21 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:49:22 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:49:22 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:49:42 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:49:42 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:49:43 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:49:43 IST 2021
+2021-08-15 07:50:10 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-15 07:50:14 INFO  TestBase:52 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:50:14 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:50:14 IST 2021
+2021-08-15 07:50:15 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:50:15 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:50:15 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:50:37 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:50:37 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:50:37 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:50:58 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:50:58 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:50:58 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:50:58 IST 2021
+2021-08-15 07:52:59 INFO  TestBase:45 - Load the Properties
+2021-08-15 07:53:01 INFO  TestBase:48 - Launch the  chrome browser 
+2021-08-15 07:53:05 INFO  TestBase:53 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:53:05 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:53:05 IST 2021
+2021-08-15 07:53:06 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:53:06 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:53:06 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:53:28 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:53:28 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:53:28 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:53:49 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:53:49 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:53:49 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:53:49 IST 2021
+2021-08-15 07:54:45 INFO  TestBase:42 - Load the Properties
+2021-08-15 07:54:48 INFO  TestBase:45 - Launch the  chrome browser 
+2021-08-15 07:54:51 INFO  TestBase:50 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 07:54:51 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 07:54:51 IST 2021
+2021-08-15 07:54:52 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 07:54:52 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 07:54:52 INFO  Recharge:19 - Select the  Operator
+2021-08-15 07:55:15 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 07:55:15 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 07:55:15 INFO  Recharge:43 - Select the  Amount
+2021-08-15 07:55:35 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 07:55:36 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 07:55:36 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 07:55:36 IST 2021
+2021-08-15 08:00:17 INFO  TestBase:42 - Load the Properties
+2021-08-15 08:00:19 INFO  TestBase:45 - Launch the  chrome browser 
+2021-08-15 08:00:23 INFO  TestBase:50 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-15 08:00:23 INFO  SuiteListener:47 - Test Execution StartedSun Aug 15 08:00:23 IST 2021
+2021-08-15 08:00:24 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-15 08:00:24 INFO  Recharge:12 - Click on Operaton option
+2021-08-15 08:00:24 INFO  Recharge:19 - Select the  Operator
+2021-08-15 08:00:49 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-15 08:00:49 INFO  Recharge:36 - Click on Operaton option
+2021-08-15 08:00:49 INFO  Recharge:43 - Select the  Amount
+2021-08-15 08:01:10 INFO  Recharge:54 - Click on Next  Button
+2021-08-15 08:01:13 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-15 08:01:13 INFO  SuiteListener:51 - Test Execution EndedSun Aug 15 08:01:13 IST 2021
+2021-08-16 08:24:17 INFO  TestBase:42 - Load the Properties
+2021-08-16 08:24:24 INFO  TestBase:45 - Launch the  chrome browser 
+2021-08-16 08:47:32 INFO  TestBase:42 - Load the Properties
+2021-08-16 08:47:36 INFO  TestBase:45 - Launch the  chrome browser 
+2021-08-16 08:50:07 INFO  TestBase:44 - Load the Properties
+2021-08-16 08:50:10 INFO  TestBase:47 - Launch the  chrome browser 
+2021-08-16 08:56:41 INFO  TestBase:43 - Load the Properties
+2021-08-16 08:56:43 INFO  TestBase:46 - Launch the  chrome browser 
+2021-08-16 08:59:16 INFO  TestBase:51 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 08:59:16 INFO  SuiteListener:47 - Test Execution StartedMon Aug 16 08:59:16 IST 2021
+2021-08-16 08:59:17 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-16 08:59:17 INFO  Recharge:12 - Click on Operaton option
+2021-08-16 08:59:37 INFO  SuiteListener:29 - Test Case Failed::rechargeDetails
+2021-08-16 08:59:38 INFO  SuiteListener:51 - Test Execution EndedMon Aug 16 08:59:38 IST 2021
+2021-08-16 09:04:38 INFO  TestBase:43 - Load the Properties
+2021-08-16 09:04:40 INFO  TestBase:46 - Launch the  chrome browser 
+2021-08-16 09:07:14 INFO  TestBase:51 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 09:07:14 INFO  SuiteListener:47 - Test Execution StartedMon Aug 16 09:07:14 IST 2021
+2021-08-16 09:07:15 INFO  SuiteListener:21 - Test Case Started::rechargeDetails
+2021-08-16 09:07:15 INFO  Recharge:12 - Click on Operaton option
+2021-08-16 09:07:15 INFO  Recharge:19 - Select the  Operator
+2021-08-16 09:07:50 INFO  Recharge:29 - Enter the Mobile Number
+2021-08-16 09:07:51 INFO  Recharge:36 - Click on Operaton option
+2021-08-16 09:07:51 INFO  Recharge:43 - Select the  Amount
+2021-08-16 09:08:12 INFO  Recharge:54 - Click on Next  Button
+2021-08-16 09:08:13 INFO  SuiteListener:25 - Test Case Passed::rechargeDetails
+2021-08-16 09:08:13 INFO  SuiteListener:51 - Test Execution EndedMon Aug 16 09:08:13 IST 2021
+2021-08-16 09:28:30 INFO  TestBase:43 - Load the Properties
+2021-08-16 09:28:33 INFO  TestBase:46 - Launch the  chrome browser 
+2021-08-16 09:31:06 INFO  TestBase:51 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 09:31:06 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 09:31:06 IST 2021
+2021-08-16 09:31:07 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 09:31:07 INFO  Recharge:12 - Click on Operaton option
+2021-08-16 09:31:27 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 09:31:27 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 09:31:27 IST 2021
+2021-08-16 10:06:56 INFO  TestBase:43 - Load the Properties
+2021-08-16 10:07:01 INFO  TestBase:46 - Launch the  chrome browser 
+2021-08-16 10:12:02 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 10:12:02 IST 2021
+2021-08-16 10:12:04 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 10:12:04 INFO  SuiteListener:40 - rechargeDetails Test Case is Skipped
+2021-08-16 10:12:04 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 10:12:04 IST 2021
+2021-08-16 10:24:11 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:24:14 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 10:26:47 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 10:26:47 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 10:26:47 IST 2021
+2021-08-16 10:26:48 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 10:26:48 INFO  Recharge_TC:53 - TesCase Not Executed
+2021-08-16 10:26:48 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 10:26:48 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 10:26:48 IST 2021
+2021-08-16 10:36:42 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:36:45 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 10:39:17 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 10:39:18 INFO  Recharge_TC:53 - TesCase Not Executed
+2021-08-16 10:41:10 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:41:13 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 10:41:18 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 10:41:18 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 10:41:18 IST 2021
+2021-08-16 10:41:18 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 10:41:18 INFO  Recharge_TC:53 - TesCase Not Executed
+2021-08-16 10:41:18 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 10:41:18 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 10:41:18 IST 2021
+2021-08-16 10:41:46 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:42:00 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:42:04 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 10:44:36 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 10:44:36 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 10:44:36 IST 2021
+2021-08-16 10:44:37 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 10:44:37 INFO  Recharge_TC:53 - TesCase Not Executed
+2021-08-16 10:44:37 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 10:44:37 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 10:44:37 IST 2021
+2021-08-16 10:54:07 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:54:11 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 10:55:26 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 10:55:27 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 10:55:27 IST 2021
+2021-08-16 10:55:28 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 10:55:28 INFO  Recharge_TC:52 - TesCase Not Executed
+2021-08-16 10:55:28 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 10:55:28 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 10:55:28 IST 2021
+2021-08-16 10:57:10 INFO  TestBase:47 - Load the Properties
+2021-08-16 10:57:28 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:00:05 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 11:00:14 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 11:00:14 IST 2021
+2021-08-16 11:00:22 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 11:00:22 INFO  Recharge_TC:52 - TesCase Not Executed
+2021-08-16 11:00:22 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 11:00:22 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 11:00:22 IST 2021
+2021-08-16 11:14:01 INFO  TestBase:47 - Load the Properties
+2021-08-16 11:14:07 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:16:39 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 11:16:39 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 11:16:39 IST 2021
+2021-08-16 11:16:42 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 11:16:42 INFO  Recharge_TC:55 - TesCase Not Executed
+2021-08-16 11:16:42 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 11:16:42 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 11:16:42 IST 2021
+2021-08-16 11:19:21 INFO  TestBase:47 - Load the Properties
+2021-08-16 11:19:38 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:31:11 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 11:31:17 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 11:31:17 IST 2021
+2021-08-16 11:31:25 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 11:31:25 INFO  Recharge_TC:55 - TesCase Not Executed
+2021-08-16 11:31:25 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 11:31:25 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 11:31:25 IST 2021
+2021-08-16 11:33:17 INFO  TestBase:47 - Load the Properties
+2021-08-16 11:33:20 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:35:53 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 11:35:53 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 11:35:53 IST 2021
+2021-08-16 11:35:54 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 11:35:54 INFO  Recharge_TC:55 - TesCase Not Executed
+2021-08-16 11:35:54 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 11:35:54 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 11:35:54 IST 2021
+2021-08-16 11:38:05 INFO  TestBase:47 - Load the Properties
+2021-08-16 11:38:08 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:40:41 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 11:41:30 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 11:41:30 IST 2021
+2021-08-16 11:41:32 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 11:44:32 INFO  TestBase:47 - Load the Properties
+2021-08-16 11:44:35 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 11:47:08 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 12:07:31 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 12:07:31 IST 2021
+2021-08-16 12:07:34 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 12:08:44 INFO  TestBase:47 - Load the Properties
+2021-08-16 12:08:51 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 12:09:08 INFO  TestBase:47 - Load the Properties
+2021-08-16 12:09:12 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 12:11:44 INFO  TestBase:54 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 12:11:54 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 12:11:54 IST 2021
+2021-08-16 12:11:55 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 12:12:56 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 12:12:57 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 12:12:57 IST 2021
+2021-08-16 12:18:50 INFO  TestBase:47 - Load the Properties
+2021-08-16 12:18:53 INFO  TestBase:50 - Launch the  chrome browser 
+2021-08-16 12:23:53 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 12:23:53 IST 2021
+2021-08-16 12:23:54 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 12:23:54 INFO  SuiteListener:40 - rechargeDetails Test Case is Skipped
+2021-08-16 12:23:54 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 12:23:54 IST 2021
+2021-08-16 12:26:37 INFO  TestBase:49 - Load the Properties
+2021-08-16 12:26:40 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 12:29:12 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 12:29:12 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 12:29:12 IST 2021
+2021-08-16 12:29:12 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 12:29:43 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 12:29:43 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 12:29:43 IST 2021
+2021-08-16 12:35:06 INFO  TestBase:49 - Load the Properties
+2021-08-16 12:35:08 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 12:37:41 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 12:39:32 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 12:39:32 IST 2021
+2021-08-16 12:39:32 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 12:40:14 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 12:40:14 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 12:40:14 IST 2021
+2021-08-16 13:03:16 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:03:22 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:03:24 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:05:57 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:06:10 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:06:10 IST 2021
+2021-08-16 13:06:10 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:07:03 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 13:07:04 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:07:04 IST 2021
+2021-08-16 13:09:29 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:09:32 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:12:05 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:12:10 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:12:10 IST 2021
+2021-08-16 13:12:11 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:17:53 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:18:07 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:18:10 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:20:42 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:24:01 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:24:01 IST 2021
+2021-08-16 13:24:01 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:24:55 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 13:24:55 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:24:55 IST 2021
+2021-08-16 13:26:17 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:26:20 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:26:24 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:26:27 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:26:26 IST 2021
+2021-08-16 13:26:27 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:26:34 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 13:26:40 INFO  Recharge:21 - Select the  Operator
+2021-08-16 13:27:13 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 13:27:13 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 13:27:13 INFO  Recharge:45 - Select the  Amount
+2021-08-16 13:27:33 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 13:28:18 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:28:21 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:28:25 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:28:30 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:28:30 IST 2021
+2021-08-16 13:28:30 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:28:43 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 13:28:44 INFO  Recharge:21 - Select the  Operator
+2021-08-16 13:29:09 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 13:29:10 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 13:29:12 INFO  Recharge:45 - Select the  Amount
+2021-08-16 13:29:38 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 13:30:22 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 13:30:22 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:30:22 IST 2021
+2021-08-16 13:32:21 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:32:23 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:32:28 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:32:30 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:32:30 IST 2021
+2021-08-16 13:32:31 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:32:33 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 13:32:33 INFO  Recharge:21 - Select the  Operator
+2021-08-16 13:32:54 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 13:32:55 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 13:32:55 INFO  Recharge:45 - Select the  Amount
+2021-08-16 13:33:15 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 13:33:54 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 13:33:55 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:33:55 IST 2021
+2021-08-16 13:35:11 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:35:14 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:37:46 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:37:49 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:37:49 IST 2021
+2021-08-16 13:37:50 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:38:26 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 13:38:27 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:38:27 IST 2021
+2021-08-16 13:41:29 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:41:31 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:46:06 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:46:10 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:47:07 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:47:09 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 13:49:41 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 13:49:47 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 13:49:47 IST 2021
+2021-08-16 13:49:47 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 13:49:57 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 13:49:57 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 13:49:57 IST 2021
+2021-08-16 13:55:52 INFO  TestBase:49 - Load the Properties
+2021-08-16 13:55:55 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 14:00:55 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:00:55 IST 2021
+2021-08-16 14:00:55 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:00:55 INFO  SuiteListener:40 - rechargeDetails Test Case is Skipped
+2021-08-16 14:00:55 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:00:55 IST 2021
+2021-08-16 14:02:41 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:02:44 INFO  TestBase:52 - Launch the  chrome browser 
+2021-08-16 14:05:16 INFO  TestBase:56 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:05:17 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:05:17 IST 2021
+2021-08-16 14:05:17 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:05:31 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 14:05:31 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:05:31 IST 2021
+2021-08-16 14:07:33 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:07:34 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:07:37 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:10:09 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:10:14 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:10:13 IST 2021
+2021-08-16 14:10:14 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:10:22 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:10:22 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:10:22 IST 2021
+2021-08-16 14:12:01 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:12:01 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:12:04 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:16:10 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:16:10 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:16:15 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:18:47 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:18:52 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:18:52 IST 2021
+2021-08-16 14:18:53 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:19:03 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:19:04 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:19:04 IST 2021
+2021-08-16 14:19:35 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:19:35 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:19:38 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:19:43 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:19:47 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:19:47 IST 2021
+2021-08-16 14:19:47 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:19:59 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 14:20:03 INFO  Recharge:21 - Select the  Operator
+2021-08-16 14:20:29 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 14:20:32 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 14:20:34 INFO  Recharge:45 - Select the  Amount
+2021-08-16 14:21:00 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 14:21:22 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:21:22 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:21:22 IST 2021
+2021-08-16 14:23:44 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:23:44 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:23:47 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:23:52 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:23:56 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:23:56 IST 2021
+2021-08-16 14:23:56 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:24:04 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 14:24:05 INFO  Recharge:21 - Select the  Operator
+2021-08-16 14:24:30 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 14:24:35 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 14:24:37 INFO  Recharge:45 - Select the  Amount
+2021-08-16 14:25:02 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 14:25:23 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 14:25:23 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:25:23 IST 2021
+2021-08-16 14:27:37 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:27:38 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:27:41 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:30:13 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:30:17 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:30:17 IST 2021
+2021-08-16 14:30:18 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:30:20 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:30:20 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:30:20 IST 2021
+2021-08-16 14:33:02 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:33:02 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:33:05 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:34:22 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:34:22 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:34:25 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:34:29 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:34:36 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:35:29 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:35:29 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:35:32 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:38:05 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:38:20 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:38:20 IST 2021
+2021-08-16 14:38:21 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:38:30 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:38:30 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:38:30 IST 2021
+2021-08-16 14:40:10 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:40:10 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:40:13 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:40:17 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:40:17 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:40:17 IST 2021
+2021-08-16 14:40:19 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:40:19 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 14:40:19 INFO  Recharge:21 - Select the  Operator
+2021-08-16 14:40:47 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 14:40:48 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 14:40:48 INFO  Recharge:45 - Select the  Amount
+2021-08-16 14:41:08 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 14:41:13 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:41:13 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:41:13 IST 2021
+2021-08-16 14:43:15 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:43:16 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:43:18 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:43:23 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:43:23 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:43:23 IST 2021
+2021-08-16 14:43:24 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:43:24 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 14:43:24 INFO  Recharge:21 - Select the  Operator
+2021-08-16 14:43:46 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 14:43:47 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 14:43:47 INFO  Recharge:45 - Select the  Amount
+2021-08-16 14:44:07 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 14:44:11 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:44:11 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:44:11 IST 2021
+2021-08-16 14:45:12 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:45:13 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:45:15 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:47:49 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:47:49 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:47:49 IST 2021
+2021-08-16 14:47:50 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:47:50 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 14:47:52 INFO  Recharge:21 - Select the  Operator
+2021-08-16 14:48:12 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 14:48:13 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 14:48:13 INFO  Recharge:45 - Select the  Amount
+2021-08-16 14:48:33 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 14:48:37 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 14:48:37 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 14:48:37 IST 2021
+2021-08-16 14:55:49 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:55:49 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:55:52 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 14:58:24 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 14:58:28 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 14:58:28 IST 2021
+2021-08-16 14:58:29 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 14:59:13 INFO  TestBase:46 - Loading the report method
+2021-08-16 14:59:13 INFO  TestBase:49 - Load the Properties
+2021-08-16 14:59:16 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 15:01:49 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 15:01:55 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 15:01:55 IST 2021
+2021-08-16 15:01:56 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 15:02:00 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 15:02:01 INFO  Recharge:21 - Select the  Operator
+2021-08-16 15:02:27 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 15:02:30 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 15:02:32 INFO  Recharge:45 - Select the  Amount
+2021-08-16 15:02:56 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 15:03:18 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 15:03:19 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 15:03:19 IST 2021
+2021-08-16 15:03:33 INFO  TestBase:46 - Loading the report method
+2021-08-16 15:03:33 INFO  TestBase:49 - Load the Properties
+2021-08-16 15:03:36 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 15:06:08 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 15:06:08 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 15:06:08 IST 2021
+2021-08-16 15:06:09 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 15:06:10 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 15:06:10 INFO  TestBase:46 - Loading the report method
+2021-08-16 15:06:10 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 15:06:10 IST 2021
+2021-08-16 15:06:10 INFO  TestBase:49 - Load the Properties
+2021-08-16 15:06:14 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 15:06:20 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 15:06:20 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 15:06:20 IST 2021
+2021-08-16 15:06:20 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 15:06:20 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 15:06:20 INFO  Recharge:21 - Select the  Operator
+2021-08-16 15:06:30 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 15:06:31 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 15:06:31 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 15:06:31 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 15:06:31 IST 2021
+2021-08-16 15:06:49 INFO  TestBase:46 - Loading the report method
+2021-08-16 15:06:49 INFO  TestBase:49 - Load the Properties
+2021-08-16 15:06:52 INFO  TestBase:51 - Launch the  chrome browser 
+2021-08-16 15:09:25 INFO  TestBase:55 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 15:09:25 INFO  SuiteListener:52 - Test Execution Started on =========================>>>>Mon Aug 16 15:09:25 IST 2021
+2021-08-16 15:09:26 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 15:09:26 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 15:09:27 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 15:09:27 IST 2021
+2021-08-16 18:58:52 INFO  TestBase:48 - Loading the report method
+2021-08-16 18:58:52 INFO  TestBase:48 - Loading the report method
+2021-08-16 18:58:52 INFO  TestBase:51 - Load the Properties
+2021-08-16 18:58:52 INFO  TestBase:51 - Load the Properties
+2021-08-16 18:59:19 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 18:59:28 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 18:59:34 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 18:59:46 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 18:59:46 INFO  Recharge:21 - Select the  Operator
+2021-08-16 19:00:05 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 19:00:05 INFO  SuiteListener:40 - rechargeDetails Test Case is Skipped
+2021-08-16 19:00:05 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 19:00:05 IST 2021
+2021-08-16 19:00:09 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 19:00:09 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 19:00:09 INFO  Recharge:45 - Select the  Amount
+2021-08-16 19:00:30 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 19:00:45 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 19:00:47 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 19:00:47 IST 2021
+2021-08-16 19:06:51 INFO  TestBase:48 - Loading the report method
+2021-08-16 19:06:51 INFO  TestBase:51 - Load the Properties
+2021-08-16 19:06:58 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 19:07:02 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 19:07:03 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 19:07:03 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 19:07:03 INFO  Recharge:21 - Select the  Operator
+2021-08-16 19:07:30 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 19:07:30 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 19:07:31 INFO  Recharge:45 - Select the  Amount
+2021-08-16 19:07:51 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 19:07:54 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 19:07:55 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 19:07:55 IST 2021
+2021-08-16 19:12:37 INFO  TestBase:48 - Loading the report method
+2021-08-16 19:12:37 INFO  TestBase:51 - Load the Properties
+2021-08-16 19:12:40 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 19:12:44 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 19:12:45 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 19:12:45 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 19:12:45 INFO  Recharge:21 - Select the  Operator
+2021-08-16 19:13:10 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 19:13:10 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 19:13:10 INFO  Recharge:45 - Select the  Amount
+2021-08-16 19:13:31 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 19:13:36 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 19:13:36 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 19:13:36 IST 2021
+2021-08-16 20:43:01 INFO  TestBase:48 - Loading the report method
+2021-08-16 20:43:01 INFO  TestBase:51 - Load the Properties
+2021-08-16 20:43:10 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 20:43:14 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 20:43:16 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 20:43:24 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 20:43:25 INFO  Recharge:21 - Select the  Operator
+2021-08-16 20:43:46 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 20:43:46 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 20:43:47 INFO  Recharge:45 - Select the  Amount
+2021-08-16 20:44:07 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 20:44:12 INFO  Recharge:64 - Click on Payment type
+2021-08-16 20:44:12 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:44:12 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 20:44:23 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 20:44:43 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 20:44:44 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 20:44:44 IST 2021
+2021-08-16 20:49:12 INFO  TestBase:48 - Loading the report method
+2021-08-16 20:49:12 INFO  TestBase:51 - Load the Properties
+2021-08-16 20:49:20 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 20:49:24 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 20:49:25 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 20:49:25 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 20:49:33 INFO  Recharge:21 - Select the  Operator
+2021-08-16 20:49:54 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 20:49:54 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 20:49:54 INFO  Recharge:45 - Select the  Amount
+2021-08-16 20:50:14 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 20:50:20 INFO  Recharge:64 - Click on Payment type
+2021-08-16 20:50:20 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:50:20 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 20:50:40 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 20:50:40 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 20:50:40 IST 2021
+2021-08-16 20:52:50 INFO  TestBase:48 - Loading the report method
+2021-08-16 20:52:51 INFO  TestBase:51 - Load the Properties
+2021-08-16 20:52:55 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 20:52:58 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 20:53:00 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 20:53:00 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 20:53:00 INFO  Recharge:21 - Select the  Operator
+2021-08-16 20:53:29 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 20:53:29 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 20:53:29 INFO  Recharge:45 - Select the  Amount
+2021-08-16 20:53:49 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 20:53:54 INFO  Recharge:64 - Click on Payment type
+2021-08-16 20:53:54 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:53:55 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 20:54:15 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 20:54:15 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 20:54:15 IST 2021
+2021-08-16 20:56:45 INFO  TestBase:48 - Loading the report method
+2021-08-16 20:56:45 INFO  TestBase:51 - Load the Properties
+2021-08-16 20:56:49 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 20:56:53 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 20:56:56 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 20:57:01 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 20:57:02 INFO  Recharge:21 - Select the  Operator
+2021-08-16 20:57:24 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 20:57:25 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 20:57:25 INFO  Recharge:45 - Select the  Amount
+2021-08-16 20:57:45 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 20:57:51 INFO  Recharge:64 - Click on Payment type
+2021-08-16 20:57:51 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:57:52 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:57:52 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 20:58:12 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 20:58:12 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 20:58:12 IST 2021
+2021-08-16 20:58:26 INFO  TestBase:48 - Loading the report method
+2021-08-16 20:58:26 INFO  TestBase:51 - Load the Properties
+2021-08-16 20:58:29 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 20:58:34 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 20:58:35 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 20:58:35 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 20:58:35 INFO  Recharge:21 - Select the  Operator
+2021-08-16 20:58:57 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 20:58:57 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 20:58:57 INFO  Recharge:45 - Select the  Amount
+2021-08-16 20:59:18 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 20:59:24 INFO  Recharge:64 - Click on Payment type
+2021-08-16 20:59:24 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:59:26 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 20:59:26 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 20:59:26 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 20:59:26 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 20:59:26 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 20:59:26 INFO  Recharge:115 - Enter the email
+2021-08-16 20:59:47 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 20:59:47 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 20:59:47 IST 2021
+2021-08-16 21:02:35 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:02:35 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:02:38 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:02:42 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:02:42 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:02:42 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:02:42 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:03:11 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:03:11 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:03:11 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:03:33 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:03:38 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:03:38 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:03:40 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:03:40 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:03:40 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:03:41 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:03:41 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:03:43 INFO  Recharge:115 - Enter the email
+2021-08-16 21:04:03 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 21:04:04 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:04:04 IST 2021
+2021-08-16 21:11:26 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:11:26 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:11:31 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:11:35 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:11:38 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:11:46 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:11:46 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:12:07 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:12:07 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:12:07 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:12:27 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:12:33 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:12:33 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:12:35 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:12:36 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:12:36 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:12:36 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:12:36 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:12:39 INFO  Recharge:115 - Enter the email
+2021-08-16 21:12:39 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:12:40 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:12:40 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:12:40 IST 2021
+2021-08-16 21:13:38 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:13:38 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:13:41 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:13:45 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:13:46 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:13:46 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:13:46 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:14:11 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:14:12 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:14:12 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:15:01 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:15:07 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:15:07 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:15:10 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:15:10 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:15:10 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:15:10 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:15:10 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:15:16 INFO  Recharge:115 - Enter the email
+2021-08-16 21:15:16 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:15:16 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:15:16 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:15:16 IST 2021
+2021-08-16 21:17:47 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:17:47 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:17:51 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:17:54 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:17:58 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:18:06 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:18:06 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:18:28 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:18:28 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:18:28 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:18:49 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:18:54 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:18:54 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:18:56 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:18:56 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:18:56 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:18:56 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:18:57 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:18:59 INFO  Recharge:115 - Enter the email
+2021-08-16 21:19:00 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:19:00 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:19:00 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:19:00 IST 2021
+2021-08-16 21:23:04 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:23:04 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:23:06 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:23:11 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:23:11 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:23:11 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:23:12 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:23:34 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:23:34 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:23:34 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:23:54 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:23:58 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:23:58 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:24:00 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:24:00 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:24:00 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:24:00 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:24:00 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:24:03 INFO  Recharge:115 - Enter the email
+2021-08-16 21:24:03 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:24:03 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:24:03 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:24:03 IST 2021
+2021-08-16 21:30:57 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:30:57 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:31:01 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:31:05 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:31:05 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:31:06 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:31:06 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:31:31 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:31:31 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:31:31 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:31:51 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:31:55 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:31:55 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:31:57 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:31:57 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:31:57 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:31:57 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:31:57 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:32:00 INFO  Recharge:115 - Enter the email
+2021-08-16 21:32:00 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:32:01 INFO  Recharge:128 - Enter the UserName
+2021-08-16 21:32:01 INFO  Recharge:135 - Enter the Password
+2021-08-16 21:32:01 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:32:01 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:32:01 IST 2021
+2021-08-16 21:34:30 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:34:30 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:34:32 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:34:36 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:34:37 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:34:37 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:34:37 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:34:59 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:34:59 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:34:59 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:35:20 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:35:25 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:35:25 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:35:27 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:35:27 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:35:27 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:35:27 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:35:27 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:35:33 INFO  Recharge:115 - Enter the email
+2021-08-16 21:35:33 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:35:33 INFO  Recharge:128 - Enter the UserName
+2021-08-16 21:35:34 INFO  Recharge:135 - Enter the Password
+2021-08-16 21:35:34 INFO  SuiteListener:30 - rechargeDetails Test Case is Passed
+2021-08-16 21:35:34 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:35:34 IST 2021
+2021-08-16 21:40:27 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:40:27 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:40:30 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:40:34 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:40:36 INFO  SuiteListener:26 - Test Case Started::  rechargeDetails
+2021-08-16 21:40:46 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:40:46 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:41:07 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:41:07 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:41:07 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:41:27 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:41:31 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:41:31 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:41:33 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:41:33 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:41:33 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:41:33 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:41:34 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:41:37 INFO  Recharge:115 - Enter the email
+2021-08-16 21:41:38 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:41:38 INFO  Recharge:128 - Enter the UserName
+2021-08-16 21:41:38 INFO  Recharge:135 - Enter the Password
+2021-08-16 21:41:38 INFO  Recharge:141 - Click on Captcha checkobox 
+2021-08-16 21:41:58 INFO  SuiteListener:34 - rechargeDetails Test Case is Failed
+2021-08-16 21:41:59 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:41:59 IST 2021
+2021-08-16 21:43:08 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:43:08 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:43:11 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:43:15 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:43:16 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 21:43:16 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:43:16 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:43:38 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:43:38 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:43:40 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 21:43:40 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:43:40 IST 2021
+2021-08-16 21:44:13 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:44:13 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:44:17 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:44:21 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:44:21 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 21:44:21 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:44:21 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:44:44 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:44:44 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:44:44 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:45:04 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:45:08 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:45:08 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:45:11 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:45:11 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:45:11 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:45:11 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:45:11 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:45:14 INFO  Recharge:115 - Enter the email
+2021-08-16 21:45:14 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:45:14 INFO  Recharge:128 - Enter the UserName
+2021-08-16 21:45:15 INFO  Recharge:135 - Enter the Password
+2021-08-16 21:45:15 INFO  Recharge:141 - Click on Captcha checkobox 
+2021-08-16 21:45:35 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 21:45:36 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:45:36 IST 2021
+2021-08-16 21:48:58 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:48:58 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:49:01 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:49:05 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:49:06 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 21:49:06 INFO  Recharge:14 - Click on Operaton option
+2021-08-16 21:49:06 INFO  Recharge:21 - Select the  Operator
+2021-08-16 21:49:28 INFO  Recharge:31 - Enter the Mobile Number
+2021-08-16 21:49:28 INFO  Recharge:38 - Click on Operaton option
+2021-08-16 21:49:28 INFO  Recharge:45 - Select the  Amount
+2021-08-16 21:49:48 INFO  Recharge:56 - Click on Next  Button
+2021-08-16 21:49:52 INFO  Recharge:64 - Click on Payment type
+2021-08-16 21:49:52 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:49:54 INFO  Recharge:71 - Click on Payment Method
+2021-08-16 21:49:54 INFO  Recharge:93 - Enter the Card Number
+2021-08-16 21:49:55 INFO  Recharge:100 - Enter the Exp Month
+2021-08-16 21:49:55 INFO  Recharge:105 - Enter the Exp Year
+2021-08-16 21:49:55 INFO  Recharge:110 - Enter the CVV Num
+2021-08-16 21:49:58 INFO  Recharge:115 - Enter the email
+2021-08-16 21:49:58 INFO  Recharge:121 - Click on Submit details
+2021-08-16 21:49:58 INFO  Recharge:128 - Enter the UserName
+2021-08-16 21:49:58 INFO  Recharge:135 - Enter the Password
+2021-08-16 21:49:59 INFO  Recharge:141 - Click on Captcha checkobox 
+2021-08-16 21:50:19 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 21:50:19 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:50:19 IST 2021
+2021-08-16 21:52:04 INFO  TestBase:48 - Loading the report method
+2021-08-16 21:52:04 INFO  TestBase:51 - Load the Properties
+2021-08-16 21:52:07 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 21:52:11 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 21:52:12 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 21:52:12 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 21:52:12 INFO  Recharge:24 - Select the  Operator
+2021-08-16 21:52:34 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 21:52:35 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 21:52:35 INFO  Recharge:48 - Select the  Amount
+2021-08-16 21:52:55 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 21:52:58 INFO  Recharge:66 - Click on Payment type
+2021-08-16 21:52:58 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 21:53:00 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 21:53:00 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 21:53:00 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 21:53:01 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 21:53:01 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 21:53:03 INFO  Recharge:120 - Enter the email
+2021-08-16 21:53:04 INFO  Recharge:126 - Click on Submit details
+2021-08-16 21:53:04 INFO  Recharge:132 - Enter the UserName
+2021-08-16 21:53:04 INFO  Recharge:138 - Enter the Password
+2021-08-16 21:53:04 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 21:53:06 INFO  Recharge:156 - Click on Access button 
+2021-08-16 21:53:06 INFO  SuiteListener:30 - mobileRecharge Test Case is Passed
+2021-08-16 21:53:06 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 21:53:06 IST 2021
+2021-08-16 22:00:13 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:00:13 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:00:16 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:00:20 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:00:21 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:00:21 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:00:21 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:00:48 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:00:48 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:00:48 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:01:09 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:01:16 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:01:17 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:01:19 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:01:19 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:01:19 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:01:19 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:01:19 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:01:22 INFO  Recharge:120 - Enter the email
+2021-08-16 22:01:22 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:01:22 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:01:24 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:01:24 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:01:25 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:01:26 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:01:27 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:01:27 IST 2021
+2021-08-16 22:04:58 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:04:58 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:05:03 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:05:08 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:05:08 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:05:09 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:05:09 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:05:44 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:05:44 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:05:44 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:06:04 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:06:08 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:06:08 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:06:10 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:06:10 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:06:11 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:06:11 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:06:11 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:06:16 INFO  Recharge:120 - Enter the email
+2021-08-16 22:06:16 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:06:16 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:06:16 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:06:17 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:06:18 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:06:19 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:06:19 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:06:19 IST 2021
+2021-08-16 22:09:21 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:09:21 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:09:24 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:09:29 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:09:30 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:09:30 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:09:38 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:09:59 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:09:59 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:10:00 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:10:20 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:10:23 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:10:23 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:10:26 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:10:26 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:10:26 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:10:26 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:10:26 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:10:29 INFO  Recharge:120 - Enter the email
+2021-08-16 22:10:30 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:10:30 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:10:30 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:10:30 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:10:32 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:10:32 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:10:33 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:10:33 IST 2021
+2021-08-16 22:11:47 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:11:47 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:12:09 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:12:12 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:13:01 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:13:05 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:13:26 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:13:27 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:13:27 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:13:48 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:13:49 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:13:50 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:14:12 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:15:20 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:15:20 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:15:22 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:15:23 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:15:23 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:15:29 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:15:29 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:15:32 INFO  Recharge:120 - Enter the email
+2021-08-16 22:15:32 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:15:33 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:15:34 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:15:35 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:15:36 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:15:38 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:16:01 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:16:00 IST 2021
+2021-08-16 22:22:54 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:22:59 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:24:25 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:24:30 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:25:51 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:25:51 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:25:54 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:25:58 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:25:59 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:25:59 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:25:59 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:26:26 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:26:27 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:26:27 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:26:47 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:26:51 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:26:52 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:26:54 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:26:54 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:26:54 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:26:54 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:26:54 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:26:56 INFO  Recharge:120 - Enter the email
+2021-08-16 22:26:57 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:26:57 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:26:57 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:26:57 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:26:59 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:27:00 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:27:00 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:27:00 IST 2021
+2021-08-16 22:27:21 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:27:21 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:27:25 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:27:28 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:27:29 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:27:29 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:27:30 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:27:52 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:27:52 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:27:52 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:28:13 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:28:16 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:28:16 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:28:18 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:28:18 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:28:19 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:28:19 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:28:19 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:28:21 INFO  Recharge:120 - Enter the email
+2021-08-16 22:28:22 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:28:22 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:28:22 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:28:23 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:28:24 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:28:25 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:28:25 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:28:25 IST 2021
+2021-08-16 22:29:53 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:29:53 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:29:57 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:30:01 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:30:02 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:30:02 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:30:03 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:30:24 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:30:25 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:30:25 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:30:46 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:30:50 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:30:50 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:30:52 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:30:52 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:30:52 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:30:53 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:30:53 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:30:55 INFO  Recharge:120 - Enter the email
+2021-08-16 22:30:56 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:30:56 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:30:56 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:30:57 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:30:58 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:30:59 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:30:59 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:30:59 IST 2021
+2021-08-16 22:33:32 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:33:32 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:33:35 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:33:40 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:33:41 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:33:41 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:33:41 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:34:09 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:34:10 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:34:10 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:34:31 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:34:36 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:34:36 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:34:38 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:34:38 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:34:38 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:34:39 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:34:39 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:34:42 INFO  Recharge:120 - Enter the email
+2021-08-16 22:34:42 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:34:42 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:34:43 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:34:43 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:34:47 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:35:24 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:35:25 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:35:25 IST 2021
+2021-08-16 22:36:24 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:36:24 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:36:27 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:36:31 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:36:32 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:36:32 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:36:32 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:36:54 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:36:55 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:36:55 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:37:16 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:37:19 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:37:19 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:37:21 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:37:22 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:37:22 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:37:22 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:37:22 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:37:25 INFO  Recharge:120 - Enter the email
+2021-08-16 22:37:25 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:37:25 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:37:25 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:37:26 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:37:32 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:39:05 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:39:05 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:39:09 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:39:13 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:39:14 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:39:14 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:39:14 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:39:42 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:39:42 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:39:43 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:40:03 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:40:07 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:40:07 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:40:09 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:40:09 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:40:09 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:40:09 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:40:09 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:40:13 INFO  Recharge:120 - Enter the email
+2021-08-16 22:40:13 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:40:13 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:40:14 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:40:14 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:40:59 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:40:59 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:41:02 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:41:13 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:41:13 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:41:16 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:41:20 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:41:21 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:41:21 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:41:22 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:41:44 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:41:44 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:41:44 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:42:05 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:42:09 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:42:09 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:42:11 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:42:11 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:42:11 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:42:12 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:42:12 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:42:14 INFO  Recharge:120 - Enter the email
+2021-08-16 22:42:15 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:42:15 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:42:15 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:42:15 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:42:34 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:42:47 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:42:59 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:42:59 IST 2021
+2021-08-16 22:44:05 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:44:05 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:44:08 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:44:15 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:44:16 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:44:16 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:44:17 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:44:39 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:44:39 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:44:40 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:45:00 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:45:04 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:45:04 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:45:06 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:45:06 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:45:07 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:45:07 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:45:07 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:45:10 INFO  Recharge:120 - Enter the email
+2021-08-16 22:45:10 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:45:10 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:45:11 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:45:11 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:45:21 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:47:01 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:47:01 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:47:05 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:47:09 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:47:09 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:47:09 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:47:10 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:47:38 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:47:38 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:47:39 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:47:59 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:48:07 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:48:07 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:48:10 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:48:10 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:48:10 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:48:10 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:48:10 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:48:14 INFO  Recharge:120 - Enter the email
+2021-08-16 22:48:15 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:48:15 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:48:15 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:48:15 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:48:22 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:48:24 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:48:25 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:48:24 IST 2021
+2021-08-16 22:48:56 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:48:56 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:48:59 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:49:03 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:49:04 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:49:04 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:49:04 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:49:27 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:49:27 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:49:27 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:49:48 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:49:52 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:49:52 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:49:54 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:49:54 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:49:54 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:49:55 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:49:55 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:49:57 INFO  Recharge:120 - Enter the email
+2021-08-16 22:49:58 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:49:58 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:49:58 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:49:58 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:50:22 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:50:34 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:50:42 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:50:42 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:50:45 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:50:46 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:50:46 IST 2021
+2021-08-16 22:50:49 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:50:50 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:50:50 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:50:50 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:51:12 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:51:12 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:51:13 INFO  Recharge:48 - Select the  Amount
+2021-08-16 22:51:33 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 22:51:37 INFO  Recharge:66 - Click on Payment type
+2021-08-16 22:51:37 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:51:39 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 22:51:39 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 22:51:40 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 22:51:40 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 22:51:40 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 22:51:43 INFO  Recharge:120 - Enter the email
+2021-08-16 22:51:43 INFO  Recharge:126 - Click on Submit details
+2021-08-16 22:51:43 INFO  Recharge:132 - Enter the UserName
+2021-08-16 22:51:44 INFO  Recharge:138 - Enter the Password
+2021-08-16 22:51:44 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 22:52:05 INFO  Recharge:155 - Click on Access button 
+2021-08-16 22:52:15 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 22:52:15 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 22:52:15 IST 2021
+2021-08-16 22:59:19 INFO  TestBase:48 - Loading the report method
+2021-08-16 22:59:19 INFO  TestBase:51 - Load the Properties
+2021-08-16 22:59:22 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 22:59:27 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 22:59:28 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 22:59:28 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 22:59:28 INFO  Recharge:24 - Select the  Operator
+2021-08-16 22:59:51 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 22:59:51 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 22:59:51 INFO  Recharge:48 - Select the  Amount
+2021-08-16 23:00:12 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 23:00:16 INFO  Recharge:66 - Click on Payment type
+2021-08-16 23:00:16 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:00:18 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:00:18 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 23:00:18 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 23:00:19 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 23:00:19 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 23:00:22 INFO  Recharge:120 - Enter the email
+2021-08-16 23:00:22 INFO  Recharge:126 - Click on Submit details
+2021-08-16 23:00:22 INFO  Recharge:132 - Enter the UserName
+2021-08-16 23:00:23 INFO  Recharge:138 - Enter the Password
+2021-08-16 23:00:23 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 23:00:26 INFO  Recharge:155 - Click on Access button 
+2021-08-16 23:00:28 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 23:00:29 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 23:00:29 IST 2021
+2021-08-16 23:02:00 INFO  TestBase:48 - Loading the report method
+2021-08-16 23:02:00 INFO  TestBase:51 - Load the Properties
+2021-08-16 23:02:03 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 23:02:08 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 23:02:10 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 23:02:10 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 23:02:10 INFO  Recharge:24 - Select the  Operator
+2021-08-16 23:02:39 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 23:02:39 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 23:02:40 INFO  Recharge:48 - Select the  Amount
+2021-08-16 23:03:00 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 23:03:05 INFO  Recharge:66 - Click on Payment type
+2021-08-16 23:03:05 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:03:07 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:03:07 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 23:03:08 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 23:03:08 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 23:03:08 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 23:03:11 INFO  Recharge:120 - Enter the email
+2021-08-16 23:03:11 INFO  Recharge:126 - Click on Submit details
+2021-08-16 23:03:11 INFO  Recharge:132 - Enter the UserName
+2021-08-16 23:03:12 INFO  Recharge:138 - Enter the Password
+2021-08-16 23:03:12 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 23:03:15 INFO  Recharge:155 - Click on Access button 
+2021-08-16 23:03:18 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 23:03:18 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 23:03:18 IST 2021
+2021-08-16 23:04:48 INFO  TestBase:48 - Loading the report method
+2021-08-16 23:04:49 INFO  TestBase:51 - Load the Properties
+2021-08-16 23:04:52 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 23:04:57 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 23:04:58 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 23:04:58 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 23:04:58 INFO  Recharge:24 - Select the  Operator
+2021-08-16 23:05:27 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 23:05:27 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 23:05:28 INFO  Recharge:48 - Select the  Amount
+2021-08-16 23:05:48 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 23:05:52 INFO  Recharge:66 - Click on Payment type
+2021-08-16 23:05:53 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:05:55 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:05:55 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 23:05:55 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 23:05:55 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 23:05:55 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 23:05:58 INFO  Recharge:120 - Enter the email
+2021-08-16 23:05:59 INFO  Recharge:126 - Click on Submit details
+2021-08-16 23:05:59 INFO  Recharge:132 - Enter the UserName
+2021-08-16 23:05:59 INFO  Recharge:138 - Enter the Password
+2021-08-16 23:05:59 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 23:06:02 INFO  Recharge:155 - Click on Access button 
+2021-08-16 23:06:05 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 23:06:05 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 23:06:05 IST 2021
+2021-08-16 23:06:31 INFO  TestBase:48 - Loading the report method
+2021-08-16 23:06:31 INFO  TestBase:51 - Load the Properties
+2021-08-16 23:06:40 INFO  TestBase:48 - Loading the report method
+2021-08-16 23:06:40 INFO  TestBase:51 - Load the Properties
+2021-08-16 23:06:43 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 23:06:47 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 23:06:47 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 23:06:47 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 23:06:48 INFO  Recharge:24 - Select the  Operator
+2021-08-16 23:07:10 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 23:07:11 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 23:07:11 INFO  Recharge:48 - Select the  Amount
+2021-08-16 23:07:31 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 23:07:35 INFO  Recharge:66 - Click on Payment type
+2021-08-16 23:07:35 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:07:37 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:07:38 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 23:07:38 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 23:07:38 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 23:07:38 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 23:07:41 INFO  Recharge:120 - Enter the email
+2021-08-16 23:07:41 INFO  Recharge:126 - Click on Submit details
+2021-08-16 23:07:41 INFO  Recharge:132 - Enter the UserName
+2021-08-16 23:07:42 INFO  Recharge:138 - Enter the Password
+2021-08-16 23:07:42 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 23:07:45 INFO  Recharge:155 - Click on Access button 
+2021-08-16 23:07:48 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 23:07:48 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 23:07:48 IST 2021
+2021-08-16 23:08:54 INFO  TestBase:48 - Loading the report method
+2021-08-16 23:08:55 INFO  TestBase:51 - Load the Properties
+2021-08-16 23:08:58 INFO  TestBase:53 - Launch the  chrome browser 
+2021-08-16 23:09:02 INFO  TestBase:57 - Open the  http://sanbox.undostres.com.mx application 
+2021-08-16 23:09:03 INFO  SuiteListener:26 - Test Case Started::  mobileRecharge
+2021-08-16 23:09:03 INFO  Recharge:19 - Click on Operaton option
+2021-08-16 23:09:03 INFO  Recharge:24 - Select the  Operator
+2021-08-16 23:09:25 INFO  Recharge:34 - Enter the Mobile Number
+2021-08-16 23:09:26 INFO  Recharge:41 - Click on Operaton option
+2021-08-16 23:09:26 INFO  Recharge:48 - Select the  Amount
+2021-08-16 23:09:46 INFO  Recharge:59 - Click on Next  Button
+2021-08-16 23:09:50 INFO  Recharge:66 - Click on Payment type
+2021-08-16 23:09:50 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:09:52 INFO  Recharge:73 - Click on Payment Method
+2021-08-16 23:09:52 INFO  Recharge:96 - Enter the Card Number
+2021-08-16 23:09:53 INFO  Recharge:102 - Enter the Exp Month
+2021-08-16 23:09:53 INFO  Recharge:108 - Enter the Exp Year
+2021-08-16 23:09:53 INFO  Recharge:114 - Enter the CVV Num
+2021-08-16 23:09:55 INFO  Recharge:120 - Enter the email
+2021-08-16 23:09:56 INFO  Recharge:126 - Click on Submit details
+2021-08-16 23:09:56 INFO  Recharge:132 - Enter the UserName
+2021-08-16 23:09:56 INFO  Recharge:138 - Enter the Password
+2021-08-16 23:09:57 INFO  Recharge:144 - Click on Captcha checkobox 
+2021-08-16 23:10:00 INFO  Recharge:155 - Click on Access button 
+2021-08-16 23:10:02 INFO  SuiteListener:34 - mobileRecharge Test Case is Failed
+2021-08-16 23:10:02 INFO  SuiteListener:56 - Test Execution Ended on =========================>>>>Mon Aug 16 23:10:02 IST 2021
